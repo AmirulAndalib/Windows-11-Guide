@@ -9,7 +9,7 @@
 	 
 ![Maintenance](https://img.shields.io/maintenance/yes/2024?style=for-the-badge)
 ![Last-Commit](https://img.shields.io/github/last-commit/mikeroyal/windows-11-guide?style=for-the-badge)
-![GitHub-Commit-Activity](https://img.shields.io/github/commit-activity/t/mikeroyal/windows-11-guide?style=for-the-badge)
+
 
 #### A guide on setting up your Windows 11 Desktop with all the essential Applications, Tools, and Games to make your experience with Windows 11 great!
 
